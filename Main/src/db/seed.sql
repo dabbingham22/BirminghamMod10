@@ -8,7 +8,7 @@ VALUES
     ;
 
 -- Insert roles
-INSERT INTO role (title, salary, department) 
+INSERT INTO role (title, salary, department_id) 
 VALUES
     ('Software Engineer', 90000, 1),
     ('Senior Software Engineer', 120000, 1),

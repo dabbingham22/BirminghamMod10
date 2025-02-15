@@ -11,7 +11,7 @@
     },
     "dependencies": {
       "dotenv": "^16.4.5",
-      "inquirer": "8.2.4",
+      "inquirer": "^9.2.19",
       "express": "^4.17.1",
       "pg": "^8.11.3"
     },
